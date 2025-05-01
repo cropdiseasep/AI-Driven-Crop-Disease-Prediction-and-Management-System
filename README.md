@@ -31,7 +31,7 @@ Automate disease detection in banana crops using AI.
 
 Focus on common diseases: Black Sigatoka, Yellow Sigatoka, Potassium Deficiency, Panama Disease, and healthy classification.
 
-#Technical Planning:
+# Technical Planning:
 
 Dataset collection from local farms.
 
@@ -110,11 +110,14 @@ Practical, scalable, and ready for real-world application.
 Team Members:
 
 Sarthak Milan Patil (TY DS-07) (221106002)
+
 Krishna Pravin Vispute (TY DS-13) (221106011)
+
 Vaibhavi Suyog Patil (TY DS-29) (221106028)
+
 Ruchika Sunil Mali (TY DS-38) (221106038)
 
-#Role Distribution:
+# Role Distribution:
 
 Divided into modules: data preparation, model training, evaluation, documentation.
 
