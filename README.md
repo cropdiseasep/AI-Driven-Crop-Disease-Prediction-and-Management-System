@@ -1,5 +1,5 @@
 # AI-Driven-Crop-Disease-Prediction-and-Management-System
-# Project Overview
+# Project Overview :
 AI-Driven Crop Disease Prediction and Management System is a deep learning-based mobile-friendly solution designed to detect and classify banana plant diseases from leaf images. The system uses advanced image classification models to assist farmers in identifying plant diseases early and managing them effectively, thereby promoting sustainable agriculture.
 
 # Target Domains:
@@ -11,7 +11,7 @@ Mobile/Cloud-Based AI Applications
 
 Sustainable Farming and Food Security
 
-#Key Features:
+# Key Features:
 Real-time disease detection from banana leaf images.
 
 Trained using CNN, EfficientNet, DenseNet, MobileNetV2, InceptionV3, and ResNeXt.
